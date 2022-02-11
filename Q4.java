@@ -1,3 +1,7 @@
+/*
+Q4. Create an application that, in turn, accesses each record in the lowerclassman file and then in the upperclassman file created in the LowerAndUpper application. Display an appropriate heading before
+each student.
+*/
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Path;
